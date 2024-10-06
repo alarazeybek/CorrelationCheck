@@ -1,0 +1,19 @@
+Correlation Results:
+Assets                              1.000000
+Revenue                             0.999611
+PatentFilings                       0.978241
+EmployeeCount                       0.976668
+CustomerSatisfactionScore           0.976668
+MarketShare                         0.972197
+NetIncome                           0.970062
+EnvironmentalSustainabilityIndex    0.959861
+ResearchAndDevelopmentExpense       0.486927
+DebtToEquityRatio                  -0.922016
+
+Number of Variables: 10
+
+Shape of filtered DataFrame: (8, 10)
+
+Columns removed due to insufficient data: []
+
+Date range of analysis for Assets: 0 to 7
